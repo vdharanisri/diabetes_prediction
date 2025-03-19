@@ -1,0 +1,1 @@
+this is a ml model that takes input of a person like age,gender,cholestrol level,bmi,sugar levels etc and gives whether a prson has diabetes or not as an output.here i have used the support vector machiene algorithm.
